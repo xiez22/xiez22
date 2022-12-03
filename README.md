@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I am an undergraduate student in Shanghai Jiao Tong University.
+- 🔭 PhD student at Tsinghua University.
 - 🌱 My major is Computer Science.
